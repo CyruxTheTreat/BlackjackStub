@@ -1,26 +1,26 @@
 <component name="libraryTable">
   <library name="Dart SDK">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/async" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/cli" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/collection" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/convert" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/core" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/developer" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/ffi" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/html" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/indexed_db" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/io" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/isolate" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/js" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/js_util" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/math" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/mirrors" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/svg" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/typed_data" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/web_audio" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/web_gl" />
-      <root url="file://$PROJECT_DIR$/../../../../tools/dart_sdk_2141/lib/web_sql" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/async" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/cli" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/collection" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/convert" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/core" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/developer" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/ffi" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/html" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/indexed_db" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/io" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/isolate" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/js" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/js_util" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/math" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/mirrors" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/svg" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/typed_data" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/web_audio" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/web_gl" />
+      <root url="file://$USER_HOME$/Documents/coding/dart/dart versions/dart-sdk 2.12.4/lib/web_sql" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
